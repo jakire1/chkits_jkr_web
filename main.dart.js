@@ -70888,7 +70888,7 @@ var $async$DF=A.l(function(a,b){if(a===1)return A.m(b,r)
 while(true)switch(s){case 0:m=$.EZ()
 if(m.h(0,"firebase_core")!=null){s=1
 break}m=m.h(0,"flutterfire_web_sdk_version")
-if(m==null)m="10.6.0"
+if(m==null)m="10.7.0"
 o=p.gaoW()
 n=$.aeh()
 n=n.gaU(n)
